@@ -1,4 +1,4 @@
-package Mart.Ödev1;
+package Mart.Hafta1;
 
 class ProgrammingLanguage {
     int id;

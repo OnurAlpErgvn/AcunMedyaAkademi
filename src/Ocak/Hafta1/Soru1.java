@@ -1,4 +1,4 @@
-package Ocak.Ödev1;
+package Ocak.Hafta1;
 
 public class Soru1 {
 }

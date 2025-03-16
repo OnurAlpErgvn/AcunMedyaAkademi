@@ -1,4 +1,4 @@
-package Şubat.Ödev1;
+package Ocak.Hafta2;
 
 public class Soru2 {
 }
